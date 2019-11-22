@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-22T16:47:22 BDT" name="Default suite" finished-at="2019-11-22T16:47:48 BDT" duration-ms="26149">
+    <groups>
+    </groups>
+    <test started-at="2019-11-22T16:47:22 BDT" name="Default test" finished-at="2019-11-22T16:47:48 BDT" duration-ms="26149">
+      <class name="irbnetprj.irbnetprj.IRBNetHomePage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:irbnetprj.irbnetprj.IRBNetHomePage@769e7ee8]" started-at="2019-11-22T16:47:22 BDT" name="setUp" finished-at="2019-11-22T16:47:22 BDT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:irbnetprj.irbnetprj.IRBNetHomePage@769e7ee8]" started-at="2019-11-22T16:47:22 BDT" name="setupTest" finished-at="2019-11-22T16:47:28 BDT" duration-ms="5498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="IRBNet_Login_Test()[pri:0, instance:irbnetprj.irbnetprj.IRBNetHomePage@769e7ee8]" started-at="2019-11-22T16:47:28 BDT" name="IRBNet_Login_Test" finished-at="2019-11-22T16:47:48 BDT" duration-ms="20582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IRBNet_Login_Test -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:irbnetprj.irbnetprj.IRBNetHomePage@769e7ee8]" started-at="2019-11-22T16:47:48 BDT" name="tearDownTest" finished-at="2019-11-22T16:47:48 BDT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:irbnetprj.irbnetprj.IRBNetHomePage@769e7ee8]" started-at="2019-11-22T16:47:48 BDT" name="tearDown" finished-at="2019-11-22T16:47:49 BDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- irbnetprj.irbnetprj.IRBNetHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
